@@ -1,0 +1,1 @@
+{"uuid":"234d6ef5-6a29-47a2-84e3-b7f459d04af7","name":"com.qa.hubspot.tests.LoginPageTest.tearDown","description":"","start":1565069947721,"stop":1565069948597,"children":["cde2264b-26da-481b-a936-14e3822d0c37"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1565069947721,"stop":1565069948597}]}

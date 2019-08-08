@@ -1,0 +1,1 @@
+{"uuid":"36cd6918-3c8d-4d4d-901e-817a23484bcc","name":"com.qa.hubspot.tests.LoginPageTest.setup","description":"","start":1565188224335,"stop":1565188251027,"children":["8c9c1017-e38d-4fac-b39a-e01be8f158af"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1565188224336,"stop":1565188251025}]}
